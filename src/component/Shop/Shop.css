@@ -8,3 +8,7 @@
     gap: 40px;
     margin: 30px 15px;
 }
+
+.cart-container{
+    background-color: rgba(225, 197, 144, 0.668);
+}
